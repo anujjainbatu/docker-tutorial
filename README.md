@@ -36,7 +36,7 @@ Hello, World!
 
 ## Docker Hub
 
-- **Docker Hub Repository**: [Your Docker Hub Repo](https://hub.docker.com/r/anujjainbatu/hello-world)
+- **Docker Hub Repository**: [anujjainbatu/hello-world](https://hub.docker.com/r/anujjainbatu/hello-world)
 
 ---
 
