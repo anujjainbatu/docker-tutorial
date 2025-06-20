@@ -39,5 +39,3 @@ Hello, World!
 - **Docker Hub Repository**: [anujjainbatu/hello-world](https://hub.docker.com/r/anujjainbatu/hello-world)
 
 ---
-
-Feel free to add your own notes and Docker experiments below!
